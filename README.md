@@ -7,7 +7,7 @@ Technologies I work with:
 
 💻 Software Development: C++, C#
 
-🛠️ Exploring: PHP (beginner)
+🛠️ Exploring: PHP,React (beginner)
 
 I'm constantly improving my skills and taking on new challenges to grow as a developer. Feel free to explore my repositories and reach out if you'd like to collaborate! 🚀
 
